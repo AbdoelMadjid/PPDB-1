@@ -21,4 +21,4 @@ Proses Pendaftaran
 
 9.status pendftaran user akan berubah menjadi 1 di table pendaftaran (Pendaftaran sudah dikonfirmasi oleh admin)
 
-10.Proses pendaftaran selesai, lanjut ke proses pembayaran.
+10.Proses pendaftaran selesai.
