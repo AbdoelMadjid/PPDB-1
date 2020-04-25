@@ -3,6 +3,7 @@
 
 Proses Pendaftaran
 1.calon siswa melakukan pendaftaran melalui menu daftar
+
 2.calon siswa mengisi formulir pendaftaran sampai tuntas
 3.Data yang diinputkan akan masuk kedalam tabel akun, pendaftaran, detail_pendaftaran
 4.User akan diinformasikan untuk melakukan login dengan email dan password untuk menyelesaikan pendaftaran
